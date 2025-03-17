@@ -1,0 +1,82 @@
+1. Security and Risk Management:
+This is the largest domain in CISSP, providing a comprehensive overview of information systems management. It covers:
+	+ CIA triad
+	+ Security governance principles
+	+ Compliance requirements
+	+ Legal and regulatory issues relating to InfoSec
+	+ IT policies and procedures
+	+ Risk-based management concepts
+	+ (ISC)2 Code of Ethics
+This domain highlights the complexities of classifying information and helps candidates appreciate how an organisation's information security function interacts with other areas, such as compliance, operational risk and IT. It also includes fundamental concepts that carry through in every other domain.
+
+
+2. Asset Security:
+This domain addresses the physical requirements of InfoSec. It covers:
+	+ The classification and ownership of information and assets
+	+ Privacy
+	+ Asset retention, including EoL(End-of-Life) and EoS(End-of-Support) processes
+	+ Stages of the data lifecycle
+	+ Data security controls
+	+ Handling requirements
+
+
+3. Security Architecture and Engineering:
+This domain covers several important InfoSec concepts, including:
+	+ Engineering processes using secure design principles
+	+ Fundamental concepts of security models
+	+ Security capabilities of information systems
+	+ Assessing and mitigating vulnerabilities in systems
+	+ Cryptography, including methods of cryptanalytic attacks and key management practices
+	+ Security principles as applied to designing sites and facilities
+
+
+4. Communication and Network Security:
+This domain covers the design and protection of an organisation's networks. This includes:
+	+ Secure design principles for network architecture
+	+ Secure network components
+	+ Secure communication channels
+	+ OSI(Open System Interconnection) and TCP/IT(Transmission Control Protocol/Internet Protocol) models
+
+
+5. Identity and Access Management:
+This domain helps InfoSec professionals understand how to control the way users can access data. It covers:
+	+ Physical and logical access to assets
+	+ Identification and authentication
+	+ Integrating identity as a service and third-party identity services
+	+ Authorisation mechanisms
+	+ The identity and access provisioning lifecycle
+Identity and access management are considered the first line of defence for protecting information assets.
+A number of prominent laws, regulations, standards and frameworks (such as the GDPR and the PCI DSS) implicitly require security controls (policies, procedures and technology)
+SSO (single sign-on) protocols are also covered here
+
+
+6. Security Assessment and Testing:
+This domain focuses on the design, performance and analysis of security testing. It includes:
+	+ Designing and validating assessment and test strategies
+	+ Security control testing
+	+ Collecting security process data
+	+ Test outputs
+	+ Internal and third-party security audits
+As cyber attacks and threats evolve, regular security audits, penetration tests and ethical hacking are increasingly important
+
+
+7. Security Operations:
+This domain addresses how InfoSec management principles are integrated into the day-to-day running of IT functions to support business objectives. It covers:
+	+ Understanding and supporting investigations
+	+ Requirements for investigation types
+	+ Logging and monitoring activities
+	+ Securing the provision of resources
+	+ Foundational security operations concepts
+	+ Applying resource protection techniques
+	+ Incident management
+	+ Managing physical security
+	+ Business continuity
+
+
+8. Software Development Security:
+This domain helps professionals understand, apply and enforce software security principles in the development lifecycle. It covers:
+	+ Security in the software development lifecycle
+	+ Security controls in software development ecosystems
+	+ The effectiveness of software security
+	+ Secure coding guidelines and standards
+These principles can be applied when developing software for internal and commercial use, as well as part of due diligence processes when sourcing suppliers
