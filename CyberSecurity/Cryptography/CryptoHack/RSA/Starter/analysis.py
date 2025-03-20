@@ -1,5 +1,5 @@
 flag = "lpqwmarwsywpqaauadrrqfcfkqwueyifwoxlkvxawjhpkbgrzf" # We strip all special characters from the flag
-key = "eginni" # This is for the first iteration, replace if neccessary
+key = "utflag" # This is for the first iteration, replace if neccessary
 for i in range(len(flag) - len(key)):
     test = flag[i:i+len(key)]
     res = ""
